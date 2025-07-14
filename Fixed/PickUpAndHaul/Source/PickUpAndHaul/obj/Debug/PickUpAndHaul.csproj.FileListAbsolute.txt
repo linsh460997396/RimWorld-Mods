@@ -1,0 +1,8 @@
+S:\Document\Github\Mehni\PickUpAndHaul\Source\PickUpAndHaul\obj\Debug\PickUpAndHaul.csproj.AssemblyReference.cache
+S:\Document\Github\Mehni\PickUpAndHaul\Source\PickUpAndHaul\obj\Debug\PickUpAndHaul.GeneratedMSBuildEditorConfig.editorconfig
+S:\Document\Github\Mehni\PickUpAndHaul\Source\PickUpAndHaul\obj\Debug\PickUpAndHaul.AssemblyInfoInputs.cache
+S:\Document\Github\Mehni\PickUpAndHaul\Source\PickUpAndHaul\obj\Debug\PickUpAndHaul.AssemblyInfo.cs
+S:\Document\Github\Mehni\PickUpAndHaul\Source\PickUpAndHaul\obj\Debug\PickUpAndHaul.csproj.CoreCompileInputs.cache
+S:\Document\Github\Mehni\PickUpAndHaul\1.6\Assemblies\PickUpAndHaul.dll
+S:\Document\Github\Mehni\PickUpAndHaul\Source\PickUpAndHaul\obj\Debug\PickUpAn.A6CEC404.Up2Date
+S:\Document\Github\Mehni\PickUpAndHaul\Source\PickUpAndHaul\obj\Debug\PickUpAndHaul.dll

@@ -1,0 +1,8 @@
+S:\Document\Github\Mehni\PickUpAndHaul\1.5\Assemblies\IHoldMultipleThings.dll
+S:\Document\Github\Mehni\PickUpAndHaul\Source\IHoldMultipleThings\obj\Debug\IHoldMultipleThings.csproj.AssemblyReference.cache
+S:\Document\Github\Mehni\PickUpAndHaul\Source\IHoldMultipleThings\obj\Debug\IHoldMultipleThings.GeneratedMSBuildEditorConfig.editorconfig
+S:\Document\Github\Mehni\PickUpAndHaul\Source\IHoldMultipleThings\obj\Debug\IHoldMultipleThings.AssemblyInfoInputs.cache
+S:\Document\Github\Mehni\PickUpAndHaul\Source\IHoldMultipleThings\obj\Debug\IHoldMultipleThings.AssemblyInfo.cs
+S:\Document\Github\Mehni\PickUpAndHaul\Source\IHoldMultipleThings\obj\Debug\IHoldMultipleThings.csproj.CoreCompileInputs.cache
+S:\Document\Github\Mehni\PickUpAndHaul\Source\IHoldMultipleThings\obj\Debug\IHoldMultipleThings.dll
+S:\Document\Github\Mehni\PickUpAndHaul\1.6\Assemblies\IHoldMultipleThings.dll
