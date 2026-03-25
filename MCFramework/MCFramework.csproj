@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MCFramework</RootNamespace>
+    <AssemblyName>MCFramework</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>S:\Document\Library\RimWorld\1.6\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="BepInEx.Core">
+      <HintPath>S:\Document\Library\RimWorld\BepInEx\BepInEx.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="BepInEx.Unity.Mono">
+      <HintPath>S:\Document\Library\RimWorld\BepInEx\BepInEx.Unity.Mono.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Management" />
+    <Reference Include="UnityEngine">
+      <HintPath>S:\Document\Library\RimWorld\1.6\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>S:\Document\Library\RimWorld\1.6\UnityEngine.AnimationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AssetBundleModule">
+      <HintPath>S:\Document\Library\RimWorld\1.6\UnityEngine.AssetBundleModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>S:\Document\Library\RimWorld\1.6\UnityEngine.AudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>S:\Document\Library\RimWorld\1.6\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ImageConversionModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>S:\Document\Library\RimWorld\1.6\UnityEngine.ImageConversionModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.InputLegacyModule">
+      <HintPath>S:\Document\Library\RimWorld\1.6\UnityEngine.InputLegacyModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>S:\Document\Library\RimWorld\1.6\UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>S:\Document\Library\RimWorld\1.6\UnityEngine.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Scripts\CellSpace\Scripts\Core\Cell.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Core\CellChunk.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Core\CellChunkDataFiles.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Core\CellChunkExtension.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Core\CellChunkManager.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Core\CellChunkMeshCreator.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Core\CellCountRadiusInfo.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Core\CellDistanceInfo.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Core\CellEvents.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Core\CellInfo.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Core\CellItem.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Core\CellRingDiffuseXY.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Core\CellRingDiffuseXYZ.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Core\CellRingDiffuseXZ.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Core\CellSpacePrefab.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Core\CellXYInfo.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Core\CellXYZInfo.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Core\CellXZInfo.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Core\CPEngine.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Core\CPIndex.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Core\CPTerrainGenerator.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Custom\CPCustomTerrainGenerator.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Editor\CPBlockEditor.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Editor\CPEngineSettings.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Examples\CellDoorOpenClose.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Examples\CellGrass.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Examples\CPCharacterMotor.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Examples\CPDebugger.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Examples\CPExampleInventory.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Examples\CPExampleTerrainGenerator.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Examples\CPExampleTerrainGeneratorWithTrees.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Examples\CPFlatTerrainGenerator.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Examples\CPFrameRateDisplay.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Examples\CPMovementSwitch.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Examples\DefaultCellEvents.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Multiplayer\Client.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Multiplayer\CPConnectionInitializer.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Multiplayer\NetworkPlayer.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Multiplayer\NetworkView.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\Multiplayer\Server.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\PlayerInteraction\CellChunkLoader.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\PlayerInteraction\CPCameraEventsSender.cs" />
+    <Compile Include="Scripts\CellSpace\Scripts\PlayerInteraction\CPColliderEventsSender.cs" />
+    <Compile Include="Scripts\Game\CurveControlledBob.cs" />
+    <Compile Include="Scripts\Game\FirstPersonController.cs" />
+    <Compile Include="Scripts\Game\FOVKick.cs" />
+    <Compile Include="Scripts\Game\LerpControlledBob.cs" />
+    <Compile Include="Scripts\Game\Main.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Scripts\Game\MouseLook.cs" />
+    <Compile Include="Scripts\MeshCutting\CameraOrbit.cs" />
+    <Compile Include="Scripts\MeshCutting\DrawBounds.cs" />
+    <Compile Include="Scripts\MeshCutting\ExploreSlice.cs" />
+    <Compile Include="Scripts\MeshCutting\Intersections.cs" />
+    <Compile Include="Scripts\MeshCutting\MeshCutter.cs" />
+    <Compile Include="Scripts\MeshCutting\MeshUtils.cs" />
+    <Compile Include="Scripts\MeshCutting\MouseSlice.cs" />
+    <Compile Include="Scripts\MeshCutting\ObjectManager.cs" />
+    <Compile Include="Scripts\MeshCutting\ScreenLineRenderer.cs" />
+    <Compile Include="Scripts\MeshCutting\TempMesh.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\DotNetEvent\DllLoader.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\DotNetEvent\FileWriter.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\DotNetEvent\KeyMouseHook\KeyboardHook.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\DotNetEvent\KeyMouseHook\MouseHook.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\DotNetEvent\KeyMouseHook\RecordService.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Game\Abilcmd.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Game\Actor.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Game\Game.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Game\Item.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Game\Order.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Game\Player.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Game\Unit.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Game\UnitGroup.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\MMCore.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Obfuscator\CodeObfuscator.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Other\AddressableManager.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Other\AssetBundleLoader.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Other\FPC\CurveControlledBob.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Other\FPC\FirstPersonController.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Other\FPC\FOVKick.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Other\FPC\LerpControlledBob.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Other\FPC\MouseLook.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Other\FPS.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Other\Input\InputExtension.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Other\Input\InputSystem.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Other\MainThreadDispatcher.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Other\NoteAttribute.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Other\RuntimePrefab.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Other\TextureAnalyzer.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Other\TextureAnalyzerNet.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Other\UnityUtilities.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Thread\MainUpdate.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Thread\SubUpdate.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Thread\TimerUpdate.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Thread\Trigger.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\Class\Web\UDown.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\PublicEnum\Entry.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\PublicEnum\OrderQueue.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\PublicEnum\OrderTarget.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\PublicEnum\PlayerProp.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\PublicEnum\PlayerPropOp.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\PublicEnum\UnitCount.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\PublicEnum\UnitCreateTag.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\PublicEnum\UnitProp.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\PublicFuncref\MMFuncref.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\PublicStruc\OP.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\PublicStruc\Point2F.cs" />
+    <Compile Include="Scripts\MetalMaxSystem\PublicStruc\Point3F.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>taskkill /f /im RimWorldWin64.exe
+del /q "T:\Program Files (x86)\Steam\steamapps\common\RimWorld\BepInEx\plugins\$(TargetFileName)"
+copy "$(TargetPath)" "T:\Program Files (x86)\Steam\steamapps\common\RimWorld\BepInEx\plugins\$(TargetFileName)"
+start steam://rungameid/294100</PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+</Project>
