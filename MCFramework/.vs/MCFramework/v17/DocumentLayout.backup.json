@@ -1,32 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|d:\\vswork\\2022\\bepinexormod\\rimworld\\mcframework\\scripts\\metalmaxsystem\\class\\mmcore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|solutionrelative:scripts\\metalmaxsystem\\class\\mmcore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|d:\\vswork\\2022\\bepinexormod\\rimworld\\mcframework\\scripts\\cellspace\\scripts\\core\\cellchunkmeshcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|solutionrelative:scripts\\cellspace\\scripts\\core\\cellchunkmeshcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\scripts\\game\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|solutionrelative:scripts\\game\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\scripts\\cellspace\\scripts\\core\\cpengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|solutionrelative:scripts\\cellspace\\scripts\\core\\cpengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\scripts\\cellspace\\scripts\\custom\\cpcustomterraingenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|solutionrelative:scripts\\cellspace\\scripts\\custom\\cpcustomterraingenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\scripts\\game\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|solutionrelative:scripts\\game\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -34,21 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MMCore.cs",
-              "DocumentMoniker": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\MetalMaxSystem\\Class\\MMCore.cs",
-              "RelativeDocumentMoniker": "Scripts\\MetalMaxSystem\\Class\\MMCore.cs",
-              "ToolTip": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\MetalMaxSystem\\Class\\MMCore.cs",
-              "RelativeToolTip": "Scripts\\MetalMaxSystem\\Class\\MMCore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T14:47:33.31Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:7:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
@@ -56,67 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CellChunkMeshCreator.cs",
-              "DocumentMoniker": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Core\\CellChunkMeshCreator.cs",
-              "RelativeDocumentMoniker": "Scripts\\CellSpace\\Scripts\\Core\\CellChunkMeshCreator.cs",
-              "ToolTip": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Core\\CellChunkMeshCreator.cs",
-              "RelativeToolTip": "Scripts\\CellSpace\\Scripts\\Core\\CellChunkMeshCreator.cs",
-              "ViewState": "AgIAAEYCAAAAAAAAAAAAAIECAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T09:15:46.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CPCustomTerrainGenerator.cs",
-              "DocumentMoniker": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Custom\\CPCustomTerrainGenerator.cs",
-              "RelativeDocumentMoniker": "Scripts\\CellSpace\\Scripts\\Custom\\CPCustomTerrainGenerator.cs",
-              "ToolTip": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Custom\\CPCustomTerrainGenerator.cs",
-              "RelativeToolTip": "Scripts\\CellSpace\\Scripts\\Custom\\CPCustomTerrainGenerator.cs",
-              "ViewState": "AgIAAGUBAAAAAAAAAAAiwLUBAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T06:19:12.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CPEngine.cs",
-              "DocumentMoniker": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Core\\CPEngine.cs",
-              "RelativeDocumentMoniker": "Scripts\\CellSpace\\Scripts\\Core\\CPEngine.cs",
-              "ToolTip": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Core\\CPEngine.cs",
-              "RelativeToolTip": "Scripts\\CellSpace\\Scripts\\Core\\CPEngine.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAIwHkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T06:12:18.47Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Main.cs",
-              "DocumentMoniker": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\Game\\Main.cs",
-              "RelativeDocumentMoniker": "Scripts\\Game\\Main.cs",
-              "ToolTip": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\Game\\Main.cs",
-              "RelativeToolTip": "Scripts\\Game\\Main.cs",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAAAK0AAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T05:44:57.461Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FirstPersonController.cs",
-              "DocumentMoniker": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\Game\\FirstPersonController.cs",
-              "RelativeDocumentMoniker": "Scripts\\Game\\FirstPersonController.cs",
-              "ToolTip": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\Game\\FirstPersonController.cs",
-              "RelativeToolTip": "Scripts\\Game\\FirstPersonController.cs",
-              "ViewState": "AgIAAIUBAAAAAAAAAAAAAK8BAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T16:19:32.027Z"
             }
           ]
         }
