@@ -33,10 +33,10 @@ namespace CellSpace
         /// <summary>
         /// 外部纹理图片路径.留空则默认externalTexturePath = Application.dataPath + @"/CellSpace/Res/Textures".
         /// </summary>
-        public static string externalTexturePath;
+        //public static string externalTexturePath;
 
         //其他路径示范
-        //public static string externalTexturePath = System.IO.Path.GetDirectoryName(Application.dataPath) + "/BepInEx/plugins/MCFramework";
+        public static string externalTexturePath = System.IO.Path.GetDirectoryName(Application.dataPath) + "/BepInEx/plugins/MCFramework";
 
         /// <summary>
         /// 预制体初始化方法.在使用CellSpacePrefab前必须调用此方法来确保预制体已被创建.

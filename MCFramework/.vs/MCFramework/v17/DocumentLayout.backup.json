@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|d:\\vswork\\2022\\bepinexormod\\rimworld\\mcframework\\scripts\\cellspace\\scripts\\examples\\cpframeratedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|solutionrelative:scripts\\cellspace\\scripts\\examples\\cpframeratedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|d:\\vswork\\2022\\bepinexormod\\rimworld\\mcframework\\scripts\\cellspace\\scripts\\core\\cpengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|solutionrelative:scripts\\cellspace\\scripts\\core\\cpengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|d:\\vswork\\2022\\bepinexormod\\rimworld\\mcframework\\scripts\\cellspace\\scripts\\examples\\cpdebugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|solutionrelative:scripts\\cellspace\\scripts\\examples\\cpdebugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|d:\\vswork\\2022\\bepinexormod\\rimworld\\mcframework\\scripts\\cellspace\\scripts\\core\\cellspaceprefab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|solutionrelative:scripts\\cellspace\\scripts\\core\\cellspaceprefab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\scripts\\cellspace\\scripts\\core\\cellringdiffusexz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|solutionrelative:scripts\\cellspace\\scripts\\core\\cellringdiffusexz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\scripts\\cellspace\\scripts\\core\\cellringdiffusexyz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|solutionrelative:scripts\\cellspace\\scripts\\core\\cellringdiffusexyz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\scripts\\cellspace\\scripts\\core\\cellringdiffusexy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|solutionrelative:scripts\\cellspace\\scripts\\core\\cellringdiffusexy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\scripts\\cellspace\\scripts\\core\\cellchunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|solutionrelative:scripts\\cellspace\\scripts\\core\\cellchunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\scripts\\metalmaxsystem\\publicstruc\\op.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|solutionrelative:scripts\\metalmaxsystem\\publicstruc\\op.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|d:\\vswork\\2022\\bepinexormod\\rimworld\\mcframework\\scripts\\game\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84E9F8A1-CC19-47A2-9EB9-661FF7918A25}|MCFramework.csproj|solutionrelative:scripts\\game\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,89 +42,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CPFrameRateDisplay.cs",
-              "DocumentMoniker": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Examples\\CPFrameRateDisplay.cs",
-              "RelativeDocumentMoniker": "Scripts\\CellSpace\\Scripts\\Examples\\CPFrameRateDisplay.cs",
-              "ToolTip": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Examples\\CPFrameRateDisplay.cs",
-              "RelativeToolTip": "Scripts\\CellSpace\\Scripts\\Examples\\CPFrameRateDisplay.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CellSpacePrefab.cs",
+              "DocumentMoniker": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Core\\CellSpacePrefab.cs",
+              "RelativeDocumentMoniker": "Scripts\\CellSpace\\Scripts\\Core\\CellSpacePrefab.cs",
+              "ToolTip": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Core\\CellSpacePrefab.cs",
+              "RelativeToolTip": "Scripts\\CellSpace\\Scripts\\Core\\CellSpacePrefab.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T11:41:04.281Z",
+              "WhenOpened": "2026-04-09T12:27:26.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CPDebugger.cs",
-              "DocumentMoniker": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Examples\\CPDebugger.cs",
-              "RelativeDocumentMoniker": "Scripts\\CellSpace\\Scripts\\Examples\\CPDebugger.cs",
-              "ToolTip": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Examples\\CPDebugger.cs",
-              "RelativeToolTip": "Scripts\\CellSpace\\Scripts\\Examples\\CPDebugger.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAlAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CPEngine.cs",
+              "DocumentMoniker": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Core\\CPEngine.cs",
+              "RelativeDocumentMoniker": "Scripts\\CellSpace\\Scripts\\Core\\CPEngine.cs",
+              "ToolTip": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Core\\CPEngine.cs",
+              "RelativeToolTip": "Scripts\\CellSpace\\Scripts\\Core\\CPEngine.cs",
+              "ViewState": "AgIAAPsFAAAAAAAAAAAowBUGAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T11:27:35.634Z",
+              "WhenOpened": "2026-04-09T12:24:55.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CellRingDiffuseXZ.cs",
-              "DocumentMoniker": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Core\\CellRingDiffuseXZ.cs",
-              "RelativeDocumentMoniker": "Scripts\\CellSpace\\Scripts\\Core\\CellRingDiffuseXZ.cs",
-              "ToolTip": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Core\\CellRingDiffuseXZ.cs",
-              "RelativeToolTip": "Scripts\\CellSpace\\Scripts\\Core\\CellRingDiffuseXZ.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\Game\\Main.cs",
+              "RelativeDocumentMoniker": "Scripts\\Game\\Main.cs",
+              "ToolTip": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\Game\\Main.cs",
+              "RelativeToolTip": "Scripts\\Game\\Main.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAAO8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T11:26:51.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CellRingDiffuseXYZ.cs",
-              "DocumentMoniker": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Core\\CellRingDiffuseXYZ.cs",
-              "RelativeDocumentMoniker": "Scripts\\CellSpace\\Scripts\\Core\\CellRingDiffuseXYZ.cs",
-              "ToolTip": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Core\\CellRingDiffuseXYZ.cs",
-              "RelativeToolTip": "Scripts\\CellSpace\\Scripts\\Core\\CellRingDiffuseXYZ.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T11:24:16.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CellRingDiffuseXY.cs",
-              "DocumentMoniker": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Core\\CellRingDiffuseXY.cs",
-              "RelativeDocumentMoniker": "Scripts\\CellSpace\\Scripts\\Core\\CellRingDiffuseXY.cs",
-              "ToolTip": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Core\\CellRingDiffuseXY.cs",
-              "RelativeToolTip": "Scripts\\CellSpace\\Scripts\\Core\\CellRingDiffuseXY.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T11:20:00.37Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CellChunk.cs",
-              "DocumentMoniker": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Core\\CellChunk.cs",
-              "RelativeDocumentMoniker": "Scripts\\CellSpace\\Scripts\\Core\\CellChunk.cs",
-              "ToolTip": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\CellSpace\\Scripts\\Core\\CellChunk.cs",
-              "RelativeToolTip": "Scripts\\CellSpace\\Scripts\\Core\\CellChunk.cs",
-              "ViewState": "AgIAAG0EAAAAAAAAAAAQwIgEAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T11:17:19.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OP.cs",
-              "DocumentMoniker": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\MetalMaxSystem\\PublicStruc\\OP.cs",
-              "RelativeDocumentMoniker": "Scripts\\MetalMaxSystem\\PublicStruc\\OP.cs",
-              "ToolTip": "D:\\VSWork\\2022\\BepInExOrMod\\RimWorld\\MCFramework\\Scripts\\MetalMaxSystem\\PublicStruc\\OP.cs",
-              "RelativeToolTip": "Scripts\\MetalMaxSystem\\PublicStruc\\OP.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T10:54:16.832Z"
+              "WhenOpened": "2026-04-09T12:06:14.502Z",
+              "EditorCaption": ""
             }
           ]
         }
